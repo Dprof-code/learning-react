@@ -16,4 +16,7 @@ const page = (
 
 // document.getElementById("root").append(page);
 
-ReactDOM.render(page, document.getElementById("root"));
+ReactDOM.render(
+    page,
+    document.getElementById("root")
+);
