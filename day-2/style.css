@@ -1,0 +1,12 @@
+.profile {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border: 1px solid royalblue;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
